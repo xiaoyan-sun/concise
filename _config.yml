@@ -1,0 +1,57 @@
+####menu
+menu:
+  Home: /
+  Archives: /archives
+  About: /about
+
+####widgets
+widgets:
+- search
+- category
+- tagcloud
+- weibo
+- recent_comments
+- links
+## provide seven widgets:search,category,tagcloud,tag,weibo,recent_comments,links
+
+#### Image
+imglogo:
+  enable: true             ## display image logo true/false.
+  src: imgs/logo.png        ## `.svg` and `.png` are recommended,please put image into the theme folder `/concise/source/imgs`.
+favicon: imgs/favicon.ico   ## size:32px*32px,`.ico` is recommended,please put image into the theme folder `/concise/source/imgs`.     
+author_img_enable: true ##please put image into the theme folder `/concise/source/imgs`,and the image name is "author.jpg"
+
+#### Author information in the footer
+author:
+  google_plus:    ## eg:116338260303228776998 for https://plus.google.com/u/0/116338260303228776998
+  intro_line1: "Hi,I'm the designer of this theme."
+  intro_line2: "I will share this theme on github after a few week!"
+  weibo: 	  ## e.g. 1923610190 for http://weibo.com/1923610190
+  twitter:    ## e.g. yangjiansky for https://twitter.com/yangjiansky
+  github:     ## e.g. huangjunhui for https://github.com/huangjunhui 
+  facebook:   ## e.g. yangjian for https://favebook.com/yangjian
+  tsina:      ## e.g. 1664838973  Your weibo ID,It will be used in share button.
+  linkedin:   ## e.g. in/jeffweiner08 for https://www.linkedin.com/in/jeffweiner08
+
+excerpt_link: Read more
+
+plugins:
+- hexo-generator-feed
+
+twitter:
+  username:
+  show_replies: false
+  tweet_count: 5
+
+#### Fancybox
+fancybox: true
+
+google_analytics: 
+
+#### RSS 
+rss: /atom.xml
+## RSS address.
+
+
+  
+
