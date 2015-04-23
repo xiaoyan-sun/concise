@@ -35,6 +35,8 @@ Modify settings in  `/themes/concise/_config.yml`.
 - **duoshuo_shortname** - duoshuo comments.
 - **tencent_sid** - tencent analysis
 - **baidu_sid** - baidu statistics id
+- **Image**  
+ Images about favicon, site logo, author image.
 - **excerpt_link** - "Read More" link text at the bottom of excerpted articles
 - **twitter** - Twitter widget config
   - **username** - Twitter username
@@ -45,6 +47,5 @@ Modify settings in  `/themes/concise/_config.yml`.
 - **rss** - RSS subscription link (change if using Feedburner)
 - **author**  
  Author imformation, used to show your social network links on the bottom right. Including github,  twitter, facebook, linkedin, google+, weibo, tsina.
-- **Image**  
- Images about favicon, site logo, author image. 
+ 
 

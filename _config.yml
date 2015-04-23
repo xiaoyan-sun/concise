@@ -1,10 +1,12 @@
 ####menu
+####菜单栏
 menu:
   Home: /
   Archives: /archives
   About: /about
 
 ####widgets
+####插件
 widgets:
 - search
 - category
@@ -13,33 +15,43 @@ widgets:
 - recent_comments
 - links
 ## provide seven widgets:search,category,tagcloud,tag,weibo,recent_comments,links
+## 提供7个插件：搜索，分类，标签，标签云，微博秀，最新评论，友情链接。
 
 duoshuo_shortname: chillax
 ##duoshuo comments's shortname
+##多说评论的shortname
+
 tencent_sid: 44218032
-##tencent analysis，腾讯分析sid
+##tencent analysis
+##腾讯分析sid
+
 baidu_sid: 7192fa361f5cabb11d8a22de41c1ba8f
-##baidu statistics id，百度统计sid，该sid为百度统计代码中：hm.src = "//hm.baidu.com/hm.js?之后的一串字符
+##baidu statistics id
+##百度统计sid，该sid为百度统计代码中：hm.src = "//hm.baidu.com/hm.js?之后的一串字符
 
 #### Image
+#### 图片
 imglogo:
-  enable: true             ## display image logo true/false.
+  enable: true              ## display image logo true/false.是否开启网站的logo，标题左边的logo。
   src: imgs/logo.png        ## `.svg` and `.png` are recommended,please put image into the theme folder `/concise/source/imgs`.
-favicon: imgs/favicon.ico   ## size:32px*32px,`.ico` is recommended,please put image into the theme folder `/concise/source/imgs`.     
-author_img_enable: true ##please put image into the theme folder `/concise/source/imgs`,and the image name is "author.jpg"
+favicon: imgs/favicon.ico   ## size:32px*32px,`.ico` is recommended,please put image into the theme folder `/concise/source/imgs`. 
+    
+author_img_enable: true		## the picture of the lower left corner
+author_img: imgs/author.jpg ## please put image into the theme folder `/concise/source/imgs`,then modify 'author.jpg' to you image's name
 
-#### Author information in the footer
+#### Author information
+#### 作者信息
 author:
-  google_plus:    ## eg:116338260303228776998 for https://plus.google.com/u/0/116338260303228776998
+  google_plus:## eg:116338260303228776998 for https://plus.google.com/u/0/116338260303228776998
   intro_line1: "Hi,I'm the designer of this theme."
   intro_line2: "I will share this theme on github after a few week!"
   weibo: 	  ## e.g. 1923610190 for http://weibo.com/1923610190
-  twitter:    ## e.g. yangjiansky for https://twitter.com/yangjiansky
+  twitter:    ## e.g. huangjunhui for https://twitter.com/huangjunhui
   github:     ## e.g. huangjunhui for https://github.com/huangjunhui 
-  facebook:   ## e.g. yangjian for https://favebook.com/yangjian
-  tsina:      ## e.g. 1664838973  Your weibo ID,It will be used in share button.
-  linkedin:   ## e.g. in/jeffweiner08 for https://www.linkedin.com/in/jeffweiner08
-  email:      ## complete email address, such as jhhuang1993@foxmail.com
+  facebook:   ## e.g. huangjunhui for https://favebook.com/huangjunhui
+  tsina:      ## e.g. 1923610190  Your weibo ID,It will be used in share button.
+  linkedin:   ## e.g. in/huangjunhui for https://www.linkedin.com/in/huangjunhui
+  email:      ## e.g. jhhuang1993@foxmail.com ,complete email address.
 
 excerpt_link: Read more
 

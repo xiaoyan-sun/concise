@@ -36,6 +36,7 @@ git pull origin master
 - **duoshuo_shortname** - 多说评论的shortname，在多说官网注册一个自己的站点，生成代码，即可看见自己的shortname。
 - **tencent_sid** - 腾讯分析sid，在代码中可以获得。
 - **baidu_sid** - 百度统计sid，该sid为百度统计代码中：hm.src = "//hm.baidu.com/hm.js?之后的一串字符
+- **Image** - 网站图标，作者头像，网站logo。
 - **twitter** - Twitter插件配置。
   - **username** - 用户名
   - **show_replies** - 是否显示回复
@@ -44,7 +45,7 @@ git pull origin master
 - **google_analytics** - 谷歌统计工具。
 - **rss** - RSS订阅。
 - **author** - 作者的相关信息，包括2行介绍，微博，github，fackbook，twitter等。
-- **Image** - 网站图标，作者头像，网站logo。
+
 
 **PS**：本主题提供的源码自带的站内搜索为light主题自带的google，如果您想修改成跟我博客一样的站内搜索，请看教程[使用swiftype实现站内搜索](http://opiece.me/2015/04/16/site-search-by-swiftype/)
 
