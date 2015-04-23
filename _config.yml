@@ -16,6 +16,10 @@ widgets:
 
 duoshuo_shortname: chillax
 ##duoshuo comments's shortname
+tencent_sid: 44218032
+##tencent analysis，腾讯分析sid
+baidu_sid: 7192fa361f5cabb11d8a22de41c1ba8f
+##baidu statistics id，百度统计sid，该sid为百度统计代码中：hm.src = "//hm.baidu.com/hm.js?之后的一串字符
 
 #### Image
 imglogo:
