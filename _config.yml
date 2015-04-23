@@ -38,9 +38,6 @@ author:
 
 excerpt_link: Read more
 
-plugins:
-- hexo-generator-feed
-
 twitter:
   username:
   show_replies: false
