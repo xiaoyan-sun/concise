@@ -39,6 +39,7 @@ author:
   facebook:   ## e.g. yangjian for https://favebook.com/yangjian
   tsina:      ## e.g. 1664838973  Your weibo ID,It will be used in share button.
   linkedin:   ## e.g. in/jeffweiner08 for https://www.linkedin.com/in/jeffweiner08
+  email:      ## complete email address, such as jhhuang1993@foxmail.com
 
 excerpt_link: Read more
 
