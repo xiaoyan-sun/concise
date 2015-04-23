@@ -32,6 +32,7 @@ git pull origin master
 - **menu** - 菜单栏，位于博客的右上方。
 - **widget** - 侧边栏的控件。包括搜索，分类，标签，标签云，微博秀，最新评论，友情链接。
 - **excerpt_link** - 摘录文章底部的"阅读更多"文本链接。
+- **duoshuo_shortname** - 多说评论的shortname，在多说官网注册一个自己的站点，生成代码，即可看见自己的shortname。
 - **twitter** - Twitter插件配置。
   - **username** - 用户名
   - **show_replies** - 是否显示回复

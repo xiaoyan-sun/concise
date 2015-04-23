@@ -14,6 +14,9 @@ widgets:
 - links
 ## provide seven widgets:search,category,tagcloud,tag,weibo,recent_comments,links
 
+duoshuo_shortname: chillax
+##duoshuo comments's shortname
+
 #### Image
 imglogo:
   enable: true             ## display image logo true/false.
