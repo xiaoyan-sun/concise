@@ -32,6 +32,8 @@ Modify settings in  `/themes/concise/_config.yml`.
 - **menu** - Main navigation menu
 - **widget** - Widgets displaying in sidebar.The category,tag,rss,search,tagcloud,links,weibo are supported.
 - **duoshuo_shortname** - duoshuo comments.
+- **tencent_sid** - tencent analysis
+- **baidu_sid** - baidu statistics id
 - **excerpt_link** - "Read More" link text at the bottom of excerpted articles
 - **twitter** - Twitter widget config
   - **username** - Twitter username
