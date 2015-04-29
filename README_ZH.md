@@ -33,6 +33,7 @@ git pull origin master
 - **menu** - 菜单栏，位于博客的右上方。
 - **widget** - 侧边栏的控件。包括搜索，分类，标签，标签云，微博秀，最新评论，友情链接。
 - **excerpt_link** - 摘录文章底部的"阅读更多"文本链接。
+- **duoshuo_enable** - 是否使用多说
 - **duoshuo_shortname** - 多说评论的shortname，在多说官网注册一个自己的站点，生成代码，即可看见自己的shortname。
 - **tencent_sid** - 腾讯分析sid，在代码中可以获得。
 - **baidu_sid** - 百度统计sid，该sid为百度统计代码中：hm.src = "//hm.baidu.com/hm.js?之后的一串字符
