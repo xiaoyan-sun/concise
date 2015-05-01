@@ -7,12 +7,15 @@ Concise is the theme I currently use for [Hexo](http://hexo.io/). It is based on
 
 ## Install
 
-Execute the following command and Modify `theme` setting in blog folder
-` _config.yml` to `concise`.
+Execute the following command .
 
 ```
 git clone https://github.com/huangjunhui/concise.git themes/concise
 ```
+
+## Enable
+
+Modify `theme` setting in blog folder ` _config.yml` to `concise`.
 
 ## Update
 

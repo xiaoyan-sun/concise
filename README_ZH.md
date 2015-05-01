@@ -7,11 +7,15 @@ Concise是一款我正在使用的hexo主题。它基于light和pacman修改而�
 
 ## 安装
 
-执行以下命令，并修改博客根目录下的配置文件 `_config.yml`，把`theme`的值修改为 `concise`。
+执行以下命令。
 
 ```
 git clone https://github.com/huangjunhui/concise.git themes/concise
 ```
+
+## 启用
+
+修改博客根目录下的配置文件 `_config.yml`，把`theme`的值修改为 `concise`。
 
 ## 更新
 
