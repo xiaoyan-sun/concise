@@ -1,7 +1,7 @@
 # Concise
 
 [README](/README.md) | 
-更详细的中文介绍，请点击[Concise主题介绍](http://opiece.me/2015/04/23/Concise-introduce/) | 
+[Concise主题介绍](http://opiece.me/2015/04/23/Concise-introduce/) | 
 [Concise's wiki](https://github.com/huangjunhui/concise/wiki/Concise)<br>
 Concise是一款我正在使用的hexo主题。它基于light和pacman修改而来，欢迎访问我的博客来看看Concise的样子。[Concise's Demo](http://opiece.me/).
 
