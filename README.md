@@ -1,7 +1,7 @@
 # Concise
 
-[中文说明](/README_ZH.md)<br>
-[Concise主题介绍](http://opiece.me/2015/04/23/Concise-introduce/)<br>
+[中文说明](/README_ZH.md) | 
+[Concise主题介绍](http://opiece.me/2015/04/23/Concise-introduce/) | 
 [Concise's wiki](https://github.com/huangjunhui/concise/wiki/Concise)<br>
 Concise is the theme I currently use for [Hexo](http://hexo.io/). It is based on [Light](https://github.com/hexojs/hexo-theme-light) and [Pacman](https://github.com/A-limon/pacman). See my blog as a [Demo](http://opiece.me/).
 
