@@ -3,15 +3,18 @@
     <%- partial('post/gallery') %>
   <% } %>
   <div class="post-content">
+  
     <header>
       <% if (item.layout != 'page'){ %>
         <time datetime="<%= item.date.toDate().toISOString() %>"><a href="<%- config.root %><%- item.path %>"><%= item.date.format(config.date_format) %></a></time>
       <% } %>
       <%- partial('post/title') %>
     </header>
+	
     <div class="entry">
 		<%- item.excerpt %> 
     </div>
+	
     <footer>
 		<div class="alignleft">
 		<a href="<%- config.root %><%- item.path %>#more" class="more-link"><%= theme.excerpt_link %></a>
